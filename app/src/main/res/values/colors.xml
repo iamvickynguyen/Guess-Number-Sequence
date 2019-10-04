@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffc300</color>
+    <color name="colorPrimaryDark">#581845</color>
+    <color name="colorAccent">#ffc300</color>
+    <color name="holo_primary">#9c27b0</color>
+    <color name="holo_primary_dark">#ff5733</color>
+    <color name="background_holo_dark">#581845</color>
+</resources>
